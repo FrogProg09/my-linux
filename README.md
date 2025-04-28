@@ -17,9 +17,7 @@
 | Term emulator | [Kitty](https://github.com/kovidgoyal/kitty) |
 | Promt | [Starship](https://github.com/starship/starship) |
 
-![image alt](https://github.com/FrogProg09/my-linux/blob/82a8df9a627c601c8f17605d98d9bc224ee22d0d/images/clean.png)
-
-![image alt](https://github.com/FrogProg09/my-linux/blob/82a8df9a627c601c8f17605d98d9bc224ee22d0d/images/workflow.png)
+![image alt](https://github.com/FrogProg09/my-linux/blob/3c01d296f3fb1740ff424f3bfc9515cfb180d8f3/images/clean-right.png)
 
 ## Installation
 
@@ -92,7 +90,6 @@ Plus even I personally haven't come up with smth 100% convinient yet.
 This is it for now, in the future I'm gonna add cheatsheet to waybar
 
 ## Screenshots
-![image alt](https://github.com/FrogProg09/my-linux/blob/82a8df9a627c601c8f17605d98d9bc224ee22d0d/images/pretty.png)
 
 ## Copying
 
