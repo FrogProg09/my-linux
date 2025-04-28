@@ -47,7 +47,7 @@ So, there are two themes for now, it is dark and light gruvbox, depending on wha
 
  Copy my repo and run script that will install my setup:
 ```bash
-git clone -b main --single-branch https://github.com/FrogProg09/my-linux.git
+git clone -b gruvbox-dark --single-branch https://github.com/FrogProg09/my-linux.git
 cd my-linux
 chmod +x install.sh
 ./install.sh
@@ -107,11 +107,7 @@ This is it for now, in the future I'm gonna add cheatsheet to waybar
 
 ## Screenshots
 
-![image alt](https://github.com/FrogProg09/my-linux/blob/0125a8255c04a4ab10bfb48d653e15e96e499151/images/clean-right.png)
-
 ![image alt](https://github.com/FrogProg09/my-linux/blob/82a8df9a627c601c8f17605d98d9bc224ee22d0d/images/pretty.png)
-
-![image alt](https://github.com/FrogProg09/my-linux/blob/0125a8255c04a4ab10bfb48d653e15e96e499151/images/wlogout-light.png)
 
 ## Copying
 
