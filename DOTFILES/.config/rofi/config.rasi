@@ -16,7 +16,7 @@ configuration {
   show-icons: false;
 } 
 
-@theme "gruvbox-dark-soft.rasi"
+@theme "gruvbox-light-soft.rasi"
 
 * {
   border: 0;

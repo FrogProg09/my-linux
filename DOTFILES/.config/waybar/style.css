@@ -1,17 +1,17 @@
 * {
-    /* `otf-font-awesome` is required to be installed for icons */
-    /* font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif; */
-    font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    padding: 0;
-    margin: 0;
+  /* `otf-font-awesome` is required to be installed for icons */
+  /* font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif; */
+  font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
 }
 
 window#waybar {
     border-radius: 5px;
     background-color: transparent;
     border-bottom: transparent;
-    color: #ffffff;
+    color: #000000;
     transition-property: background-color;
     transition-duration: .5s;
 }
@@ -58,19 +58,19 @@ button:hover {
 }
 
 #workspaces /* button */ {
-     background-color: #32302F;
-  color: #FFFFFF;
+     background-color: #EBDBB2;
+  color: #000000;
   padding: 0px 10px 0px 10px;
   margin: 3px 15px 3px 15px;
   border-radius: 8px;
   opacity: 1;
-  border: 2px solid #A89984;
+  border: 2px solid #282828;
 }
 
 #workspaces button {
     padding: 0 5px;
     background-color: transparent;
-    color: #ffffff;
+    color: #000000;
 }
 
 #workspaces button:hover {
@@ -163,27 +163,28 @@ button:hover {
 
 /*doing islands for left module group*/
 .modules-left { 
-     background-color: #32302F;
-  color: #FFFFFF;
+     background-color: #EBDBB2;
+  color: #000000;
   padding: 0px 10px 0px 10px;
   margin: 3px 15px 3px 15px;
   border-radius: 8px;
   opacity: 0.8;
-  border: 2px solid #A89984;
+  border: 2px solid #282828;
 }
 
 /*doing islands for right module group*/
 .modules-right { 
-     background-color: #32302F;
-  color: #FFFFFF;
+     background-color: #EBDBB2;
+  color: #000000;
   padding: 0px 10px 0px 10px;
   margin: 3px 15px 3px 15px;
   border-radius: 8px;
   opacity: 0.8;
-  border: 2px solid #A89984;
+  border: 2px solid #282828;
 }
 
 #clock {
+  color: #000000;
     background-color: transparent;
 }
 
@@ -283,6 +284,7 @@ label:focus {
 }
 
 #network {
+  color: #000000;
     background-color: transparent;
 }
 
@@ -292,7 +294,7 @@ label:focus {
 
 #pulseaudio {
     background-color: transparent;
-    color: #ffffff;
+    color: #000000;
 }
 
 #pulseaudio.muted {
@@ -332,6 +334,7 @@ label:focus {
 }
 
 #tray {
+  color: #000000;
     background-color: transparent;
 }
 
@@ -370,7 +373,7 @@ label:focus {
     background-color: #51a37a;
 }
 
-#language {
+#hyprland-language {
     border-radius: 20px;
     padding-left: 10px;
     padding-right: 10px;
