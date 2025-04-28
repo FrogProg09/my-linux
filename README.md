@@ -19,6 +19,8 @@
 
 ![image alt](https://github.com/FrogProg09/my-linux/blob/3c01d296f3fb1740ff424f3bfc9515cfb180d8f3/images/clean-right.png)
 
+![image alt](https://github.com/FrogProg09/my-linux/blob/2ebf22cdf84b736ed9c8f2a71e800334e1d70b94/images/workflow-light.png)
+
 ## Installation
 
 **The script should be fine, please report if something went wrong**
@@ -38,12 +40,25 @@ sudo pacman -S hyprland hyprlang hyprpaper hypridle hyprpolkitagent waybar rofi-
 ```bash
 yay -S hyprlock
 ```
+So, there are two themes for now, it is dark and light gruvbox, depending on what you wnat, choose instalation process
 
-2. Then you can copy my repo and run script that will install my setup:
+### Dark
+
+ Copy my repo and run script that will install my setup:
 ```bash
-git clone https://github.com/FrogProg09/my-linux.git
+git clone -b gruvbox-dark --single-branch https://github.com/FrogProg09/my-linux.git
 cd my-linux
-bash install.sh
+chmod +x install.sh
+./install.sh
+```
+
+### Light
+
+```bash
+git clone -b gruvbox-light --single-branch https://github.com/FrogProg09/my-linux.git
+cd my-linux
+chmod +x install.sh
+./install.sh
 ```
 
 And this is it! Besides I think shell setup (I use zsh), which you will need to do yourself.
@@ -90,6 +105,10 @@ Plus even I personally haven't come up with smth 100% convinient yet.
 This is it for now, in the future I'm gonna add cheatsheet to waybar
 
 ## Screenshots
+
+![image alt](https://github.com/FrogProg09/my-linux/blob/2ebf22cdf84b736ed9c8f2a71e800334e1d70b94/images/rofi-light.png)
+
+![image alt](https://github.com/FrogProg09/my-linux/blob/2ebf22cdf84b736ed9c8f2a71e800334e1d70b94/images/wlogout-light.png)
 
 ## Copying
 
