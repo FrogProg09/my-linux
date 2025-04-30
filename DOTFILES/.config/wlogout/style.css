@@ -1,3 +1,11 @@
+/* __        ___                         _         _         _       */
+/* \ \      / / | ___   __ _  ___  _   _| |_   ___| |_ _   _| | ___  */
+/*  \ \ /\ / /| |/ _ \ / _` |/ _ \| | | | __| / __| __| | | | |/ _ \ */
+/*   \ V  V / | | (_) | (_| | (_) | |_| | |_  \__ \ |_| |_| | |  __/ */
+/*    \_/\_/  |_|\___/ \__, |\___/ \__,_|\__| |___/\__|\__, |_|\___| */
+/*                     |___/                           |___/         */
+/*  by Frogprog (2025)  */
+
 * {
 	background-image: none;
 	box-shadow: none;
@@ -26,25 +34,25 @@ button:focus, button:active, button:hover {
 }
 
 #lock {
-    background-image: image(url("icons/lock.png"));
+  background-image: image(url("icons/lock.png"));
 }
 
 #logout {
-    background-image: image(url("icons/logout.png"));
+  background-image: image(url("icons/logout.png"));
 }
 
 #suspend {
-    background-image: image(url("icons/suspend.png"));
+  background-image: image(url("icons/suspend.png"));
 }
 
 #hibernate {
-    background-image: image(url("icons/hibernate.png"));
+  background-image: image(url("icons/hibernate.png"));
 }
 
 #shutdown {
-    background-image: image(url("icons/shutdown.png"));
+  background-image: image(url("icons/shutdown.png"));
 }
 
 #reboot {
-    background-image: image(url("icons/reboot.png"));
+  background-image: image(url("icons/reboot.png"));
 }
