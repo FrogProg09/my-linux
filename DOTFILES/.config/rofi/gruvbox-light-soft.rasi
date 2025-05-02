@@ -18,7 +18,7 @@
 
     /* Gruvbox light colors */
     gruvbox-light-bg0-soft:     #f2e5bc;
-    gruvbox-light-bg1:          #ebdbb2;
+    gruvbox-light-bg1:          #f2e5bc;
     gruvbox-light-bg2:          #d5c4a1;
     gruvbox-light-fg0:          #282828;
     gruvbox-light-fg1:          #3c3836;
