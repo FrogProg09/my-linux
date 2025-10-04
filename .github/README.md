@@ -23,6 +23,9 @@
 
 ## Installation
 
+**DO NOT CLONE MAIN BRANCH, YOU WILL END UP WITH OLD CONFIG**
+*If you want to clone config, clone specific theme branch. If you don't know how to do it, check the wiki for instructions*
+
 For installation guide you can go to the [wiki](https://github.com/FrogProg09/my-linux/wiki/installation) of the project. 
 I've tried to keep it as simple as I could, with detailed instructions it shouldn't be hard to do it.
 
