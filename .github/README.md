@@ -7,6 +7,8 @@
 </div>
 </div>
 
+## I have moved to mangowc. That is why this setup is no longer maintained.
+
 ### Things that are used in setup
 | Sysetm part | Name |
 |---|---|
